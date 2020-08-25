@@ -11,12 +11,12 @@
 
   <servers>
       <server>
-        <username>admin</username>
+        <username>test_user</username>
         <password>1%v1t6GuY9Byl6Wd^GV7</password>
         <id>central</id>
       </server>
       <server>
-        <username>admin</username>
+        <username>test_user</username>
         <password>1%v1t6GuY9Byl6Wd^GV7</password>
         <id>snapshots</id>
       </server>
