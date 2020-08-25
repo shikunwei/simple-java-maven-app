@@ -11,13 +11,13 @@
 
   <servers>
       <server>
-        <username>admin</username>
-        <password>1%v1t6GuY9Byl6Wd^GV7</password>
+        <username>test_user</username>
+        <password>zaq1@WSX</password>
         <id>central</id>
       </server>
       <server>
-        <username>admin</username>
-        <password>1%v1t6GuY9Byl6Wd^GV7</password>
+        <username>test_user</username>
+        <password>zaq1@WSX</password>
         <id>snapshots</id>
       </server>
   </servers>
