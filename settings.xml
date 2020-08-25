@@ -127,13 +127,13 @@ under the License.
      |
     -->
       <server>
-        <username>ts-kunwei.shi</username>
-        <password>zaq1@WSX</password>
+        <username>admin</username>
+        <password>1%v1t6GuY9Byl6Wd^GV7</password>
         <id>central</id>
       </server>
       <server>
-        <username>ts-kunwei.shi</username>
-        <password>zaq1@WSX</password>
+        <username>admin</username>
+        <password>1%v1t6GuY9Byl6Wd^GV7</password>
         <id>snapshots</id>
       </server>
     
